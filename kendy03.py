@@ -9,18 +9,15 @@ import time
 
 def displayIntro():
     print('This is KendyVerse.')
-    print('Soon it will evolve into an AI Program!)
-
     print()
 
-
-time.sleep(5)
     
 playAgain = 'yes'
 while playAgain == 'yes' or playAgain == 'y':
 
     displayIntro()
-
+    time.sleep(5)
+    
     # caveNumber = chooseCave()
 
     # checkCave(caveNumber)
