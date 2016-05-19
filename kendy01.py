@@ -1,5 +1,6 @@
 # Kevin van Rensburg  @KendyVerse2016
-#This program says hello and asks for my name.
+# kendy01.py This is actually version 0.02
+#This program is a copy of dragon.py from the book "Invent your own computer games with Python" by Al Sweigart.
 
 import random
 import time
