@@ -1,5 +1,5 @@
 # Kevin van Rensburg  @KendyVerse2016
-# kendy.py version 0.03
+# kendy.py version 0.04
 # This is KendyVerse.
 # Soon it will evolve into an AI Program!
 
