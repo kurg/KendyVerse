@@ -9,6 +9,7 @@ import time
 
 def displayIntro():
     print('This is KendyVerse.')
+    print('Soon it will evolve into an AI Program!')
     print()
 
     
