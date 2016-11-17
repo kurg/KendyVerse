@@ -14,7 +14,7 @@ def displayIntro():
     #time.sleep(5)
     print('Welcome to my Universe.')
     time.sleep(8)
-    #print('Soon it will evolve into an AI Program!')
+    print('I will evolve into an AI Entity in the future!')
     print()
 
 def displaySearch():
@@ -65,7 +65,7 @@ def instructions():
    print()
    print('DISCLAIMER: ')
    print()
-   print('Kendy or it\'s manufacturers and/or programmers are and will not be responsible for any user faults.')
+   print('Kendy or it\'s manufacturers and/or programmers are and will not be held responsible for any user faults.')
    time.sleep(5)
    print('Kendy or it\'s manufacturers and/or programmers will not be held liable for any lawsuits due to malfunctions of any kind whatsoever!')
    time.sleep(18)
@@ -84,10 +84,10 @@ def instructions():
    
 def askForInput():
     print()
-   newInfo=str
+    newInfo=str
     while newInfo != ' ':
         print()
-        print('Enter your request here.')
+        print('Please Enter Command.')
         newInfo = input()
         print(newInfo)
         print()
