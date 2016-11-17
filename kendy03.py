@@ -1,23 +1,24 @@
 # Kevin van Rensburg  @KendyVerse2016
-#This program says hello and asks for my name.
+# kendy.py version 0.03
+# This is KendyVerse.
+# Soon it will evolve into an AI Program!
+
 
 import random
 import time
 
 def displayIntro():
-    print('You are in a land full of dragons. In front of you,')
-    print('you see two caves. In one cave, the dragon is friendly')
-    print('and will share his treasure with you. The other dragon')
-    print('is greedy and hungry, and will eat you on sight.')
+    print('This is KendyVerse.')
+    print('Soon it will evolve into an AI Program!')
     print()
 
-time.sleep(5)
     
 playAgain = 'yes'
 while playAgain == 'yes' or playAgain == 'y':
 
     displayIntro()
-
+    time.sleep(5)
+    
     # caveNumber = chooseCave()
 
     # checkCave(caveNumber)
