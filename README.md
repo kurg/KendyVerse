@@ -13,3 +13,14 @@ I will start a timeline soon.
 
 2001 - Moved to Taiwan and bought ER1 - Named it Kendy
 Will add more entries as I get time.
+
+August 2017 - Haiti 
+Bought Raspberry Pi 3b
+
+March 2020 - Mexico City
+Bought taank for Raspberry Pi 3b 
+Started fixing Kendy07.py and added new versions up to kendy11.py
+Also created kstart01.py for KyBot (my tank).
+Added new versions to kstart01.py up to kstart03.py
+
+Thats it for now :)
