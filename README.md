@@ -18,9 +18,10 @@ August 2017 - Haiti
 Bought Raspberry Pi 3b
 
 March 2020 - Mexico City
-Bought taank for Raspberry Pi 3b 
+Bought tank for Raspberry Pi 3b 
 Started fixing Kendy07.py and added new versions up to kendy11.py
 Also created kstart01.py for KyBot (my tank).
 Added new versions to kstart01.py up to kstart03.py
+Also got an Uno R3 Board with a shield (for something)
 
 Thats it for now :)
