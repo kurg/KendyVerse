@@ -24,4 +24,9 @@ Also created kstart01.py for KyBot (my tank).
 Added new versions to kstart01.py up to kstart03.py
 Also got an Uno R3 Board with a shield (for something)
 
+Dec 2021
+Continued with my KendyVerse game
+adding kstart04.py to kstart20.py
+I am also continuing on Unity Pathway. Hope to complete it in this Dec 21 vacation
+
 Thats it for now :)
