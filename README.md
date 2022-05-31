@@ -29,4 +29,11 @@ Continued with my KendyVerse game
 adding kstart04.py to kstart20.py
 I am also continuing on Unity Pathway. Hope to complete it in this Dec 21 vacation
 
+May 2022
+Added KendyVerse01.py
+
+This is the first stand-alone file for the KendyVerse Adventure Script
+Obviously, it is a game and a work in progress :)
+It is also a splitoff from kstart2025.py
+
 Thats it for now :)
