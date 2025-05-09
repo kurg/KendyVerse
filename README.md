@@ -1,4 +1,7 @@
-# KendyVerse
+This is the official KendyVerse project, 
+developed by Kevin van Rensburg.
+========================================
+KendyVerse
 The Universe of Kendy my Robot
 
 I am going to write my programs in Python and C++ and they will be uploaded as I finish them.
