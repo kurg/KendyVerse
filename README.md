@@ -26,6 +26,8 @@ July 2023 Moved to Paraguay
 
 June 2024 20 June 2024 Uploaded kstart2307.py to kstart2324.py Really happy that I now can have some help from ChatGPT :)
 
+May 2025 , Am getting help from Copilot and merged this file.
+
 Thats it for now :)
 
 This is the official KendyVerse project, developed by Kevin van Rensburg.
