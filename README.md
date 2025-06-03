@@ -76,13 +76,6 @@ Each menu allows **dynamic interaction**, reinforcing **problem-solving and AI d
 ✔ Optimize JSON retrieval functions for improved task automation.  
 ✔ Enhance Unity integration to transition from text-based gameplay to interactive mechanics.  
 ✔ Implement branching storylines based on player choices.  
-
----
-
-### **📌 What’s Next?**  
-Would you like to **refine** any sections before updating **README.md** in GitHub? Or should we proceed with pasting and committing this structure now? 🚀🔥  
-Let me know how you'd like to move forward! 😃
-
 Thats it for now :)
 
 This is the official KendyVerse project, developed by Kevin van Rensburg.
